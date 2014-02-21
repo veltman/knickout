@@ -1,0 +1,6478 @@
+[
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "orlando_magic",
+			"date": "2013-10-29T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "chicago-bulls",
+			"date": "2013-10-29T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "los-angeles-clippers",
+			"date": "2013-10-29T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "boston-celtics",
+			"date": "2013-10-30T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "brooklyn-nets",
+			"date": "2013-10-30T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "miami-heat",
+			"date": "2013-10-30T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "milwaukee-bucks",
+			"date": "2013-10-30T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "washington-wizards",
+			"date": "2013-10-30T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "charlotte-bobcats",
+			"date": "2013-10-30T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "orlando_magic",
+			"date": "2013-10-30T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "indiana-pacers",
+			"date": "2013-10-30T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "atlanta-hawks",
+			"date": "2013-10-30T20:30:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "memphis-grizzlies",
+			"date": "2013-10-30T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-10-30T21:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "portland-trail-blazers",
+			"date": "2013-10-30T22:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "denver-nuggets",
+			"date": "2013-10-30T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "los-angeles-lakers",
+			"date": "2013-10-30T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "chicago-bulls",
+			"team2": "new-york-knicks",
+			"date": "2013-10-31T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "golden-state-warriors",
+			"date": "2013-10-31T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "orlando_magic",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-11-01T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-01T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "philadelphia-76ers",
+			"date": "2013-11-01T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "milwaukee-bucks",
+			"date": "2013-11-01T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "toronto-raptors",
+			"date": "2013-11-01T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-11-01T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "dallas-mavericks",
+			"date": "2013-11-01T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "detroit-pistons",
+			"date": "2013-11-01T20:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "miami-heat",
+			"date": "2013-11-01T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "portland-trail-blazers",
+			"date": "2013-11-01T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "los-angeles-clippers",
+			"date": "2013-11-01T22:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "utah-jazz",
+			"date": "2013-11-01T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "san-antonio-spurs",
+			"date": "2013-11-01T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-02T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "chicago-bulls",
+			"date": "2013-11-02T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "charlotte-bobcats",
+			"date": "2013-11-02T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "toronto-raptors",
+			"date": "2013-11-02T20:30:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "memphis-grizzlies",
+			"date": "2013-11-02T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "houston-rockets",
+			"date": "2013-11-02T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "san-antonio-spurs",
+			"date": "2013-11-02T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "sacramento-kings",
+			"date": "2013-11-02T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "detroit-pistons",
+			"team2": "boston-celtics",
+			"date": "2013-11-03T18:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "washington-wizards",
+			"date": "2013-11-03T18:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-03T18:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "phoenix-suns",
+			"date": "2013-11-03T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-11-03T19:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "atlanta-hawks",
+			"date": "2013-11-03T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "golden-state-warriors",
+			"date": "2013-11-04T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-11-04T19:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "boston-celtics",
+			"date": "2013-11-04T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "houston-rockets",
+			"date": "2013-11-04T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "miami-heat",
+			"date": "2013-11-05T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "indiana-pacers",
+			"date": "2013-11-05T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "utah-jazz",
+			"date": "2013-11-05T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "charlotte-bobcats",
+			"date": "2013-11-05T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "phoenix-suns",
+			"date": "2013-11-05T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "los-angeles-lakers",
+			"date": "2013-11-05T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "san-antonio-spurs",
+			"date": "2013-11-05T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "houston-rockets",
+			"date": "2013-11-05T22:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "atlanta-hawks",
+			"date": "2013-11-05T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "orlando_magic",
+			"team2": "los-angeles-clippers",
+			"date": "2013-11-06T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "toronto-raptors",
+			"date": "2013-11-06T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "washington-wizards",
+			"date": "2013-11-06T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "chicago-bulls",
+			"date": "2013-11-06T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "utah-jazz",
+			"date": "2013-11-06T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "golden-state-warriors",
+			"date": "2013-11-06T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-06T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-11-06T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "phoenix-suns",
+			"date": "2013-11-06T20:30:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "dallas-mavericks",
+			"date": "2013-11-06T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "los-angeles-clippers",
+			"date": "2013-11-07T19:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "atlanta-hawks",
+			"date": "2013-11-07T21:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "los-angeles-lakers",
+			"date": "2013-11-07T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-08T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "new-york-knicks",
+			"date": "2013-11-08T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-08T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "boston-celtics",
+			"date": "2013-11-08T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "toronto-raptors",
+			"date": "2013-11-08T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-11-08T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "utah-jazz",
+			"date": "2013-11-08T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "dallas-mavericks",
+			"date": "2013-11-08T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "los-angeles-lakers",
+			"date": "2013-11-08T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "golden-state-warriors",
+			"date": "2013-11-08T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "denver-nuggets",
+			"date": "2013-11-08T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "sacramento-kings",
+			"date": "2013-11-08T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "utah-jazz",
+			"date": "2013-11-09T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "orlando_magic",
+			"date": "2013-11-09T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "boston-celtics",
+			"date": "2013-11-09T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "indiana-pacers",
+			"date": "2013-11-09T19:30:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "philadelphia-76ers",
+			"date": "2013-11-09T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "golden-state-warriors",
+			"date": "2013-11-09T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "los-angeles-clippers",
+			"date": "2013-11-09T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "dallas-mavericks",
+			"date": "2013-11-09T20:30:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "portland-trail-blazers",
+			"date": "2013-11-09T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "new-york-knicks",
+			"team2": "san-antonio-spurs",
+			"date": "2013-11-10T12:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "washington-wizards",
+			"date": "2013-11-10T19:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-11-10T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-11-10T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "memphis-grizzlies",
+			"date": "2013-11-11T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "san-antonio-spurs",
+			"date": "2013-11-11T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "atlanta-hawks",
+			"date": "2013-11-11T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "orlando_magic",
+			"date": "2013-11-11T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "toronto-raptors",
+			"date": "2013-11-11T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-11T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "denver-nuggets",
+			"date": "2013-11-11T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "detroit-pistons",
+			"date": "2013-11-11T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-11-11T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "milwaukee-bucks",
+			"date": "2013-11-12T19:30:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "washington-wizards",
+			"date": "2013-11-12T20:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-11-12T22:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "detroit-pistons",
+			"date": "2013-11-12T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "houston-rockets",
+			"date": "2013-11-13T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "milwaukee-bucks",
+			"date": "2013-11-13T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "charlotte-bobcats",
+			"date": "2013-11-13T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-13T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "toronto-raptors",
+			"date": "2013-11-13T20:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "new-york-knicks",
+			"date": "2013-11-13T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "washington-wizards",
+			"date": "2013-11-13T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "los-angeles-lakers",
+			"date": "2013-11-13T21:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-11-13T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "phoenix-suns",
+			"date": "2013-11-13T22:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-13T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-11-13T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "new-york-knicks",
+			"team2": "houston-rockets",
+			"date": "2013-11-14T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-11-14T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "chicago-bulls",
+			"date": "2013-11-15T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "milwaukee-bucks",
+			"date": "2013-11-15T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "charlotte-bobcats",
+			"date": "2013-11-15T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "philadelphia-76ers",
+			"date": "2013-11-15T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "portland-trail-blazers",
+			"date": "2013-11-15T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "dallas-mavericks",
+			"date": "2013-11-15T19:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-11-15T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "san-antonio-spurs",
+			"date": "2013-11-15T21:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-15T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "memphis-grizzlies",
+			"date": "2013-11-15T22:30:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "detroit-pistons",
+			"date": "2013-11-15T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "miami-heat",
+			"date": "2013-11-16T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-16T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "dallas-mavericks",
+			"date": "2013-11-16T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "atlanta-hawks",
+			"date": "2013-11-16T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "denver-nuggets",
+			"date": "2013-11-16T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "indiana-pacers",
+			"date": "2013-11-16T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "boston-celtics",
+			"date": "2013-11-16T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "philadelphia-76ers",
+			"date": "2013-11-16T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-11-16T20:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "utah-jazz",
+			"date": "2013-11-16T22:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-16T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "portland-trail-blazers",
+			"date": "2013-11-17T13:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "memphis-grizzlies",
+			"date": "2013-11-17T18:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "detroit-pistons",
+			"date": "2013-11-17T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "brooklyn-nets",
+			"team2": "portland-trail-blazers",
+			"date": "2013-11-18T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "charlotte-bobcats",
+			"date": "2013-11-18T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "denver-nuggets",
+			"date": "2013-11-18T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "philadelphia-76ers",
+			"date": "2013-11-18T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "golden-state-warriors",
+			"date": "2013-11-18T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "memphis-grizzlies",
+			"date": "2013-11-18T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-11-19T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "atlanta-hawks",
+			"date": "2013-11-19T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "new-york-knicks",
+			"date": "2013-11-19T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "boston-celtics",
+			"date": "2013-11-19T20:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "phoenix-suns",
+			"date": "2013-11-19T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "washington-wizards",
+			"date": "2013-11-20T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "indiana-pacers",
+			"date": "2013-11-20T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "toronto-raptors",
+			"date": "2013-11-20T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-20T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "miami-heat",
+			"date": "2013-11-20T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "detroit-pistons",
+			"date": "2013-11-20T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "los-angeles-clippers",
+			"date": "2013-11-20T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "portland-trail-blazers",
+			"date": "2013-11-20T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "utah-jazz",
+			"date": "2013-11-20T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "boston-celtics",
+			"date": "2013-11-20T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "sacramento-kings",
+			"date": "2013-11-20T21:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "houston-rockets",
+			"date": "2013-11-20T21:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "memphis-grizzlies",
+			"date": "2013-11-20T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "los-angeles-clippers",
+			"date": "2013-11-21T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "chicago-bulls",
+			"date": "2013-11-21T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "phoenix-suns",
+			"date": "2013-11-22T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "milwaukee-bucks",
+			"date": "2013-11-22T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "washington-wizards",
+			"date": "2013-11-22T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "atlanta-hawks",
+			"date": "2013-11-22T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "indiana-pacers",
+			"date": "2013-11-22T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-22T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "san-antonio-spurs",
+			"date": "2013-11-22T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-22T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "utah-jazz",
+			"date": "2013-11-22T20:30:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "chicago-bulls",
+			"date": "2013-11-22T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "golden-state-warriors",
+			"date": "2013-11-22T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "sacramento-kings",
+			"date": "2013-11-23T15:30:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "philadelphia-76ers",
+			"date": "2013-11-23T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "new-york-knicks",
+			"date": "2013-11-23T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "boston-celtics",
+			"date": "2013-11-23T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "orlando_magic",
+			"date": "2013-11-23T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-11-23T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "charlotte-bobcats",
+			"date": "2013-11-23T20:30:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-23T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "dallas-mavericks",
+			"date": "2013-11-23T21:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "portland-trail-blazers",
+			"date": "2013-11-23T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "brooklyn-nets",
+			"team2": "detroit-pistons",
+			"date": "2013-11-24T14:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "chicago-bulls",
+			"date": "2013-11-24T15:30:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "phoenix-suns",
+			"date": "2013-11-24T18:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "utah-jazz",
+			"date": "2013-11-24T19:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "sacramento-kings",
+			"date": "2013-11-24T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "boston-celtics",
+			"date": "2013-11-25T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-11-25T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "phoenix-suns",
+			"date": "2013-11-25T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "milwaukee-bucks",
+			"date": "2013-11-25T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "houston-rockets",
+			"date": "2013-11-25T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-11-25T20:30:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "denver-nuggets",
+			"date": "2013-11-25T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "chicago-bulls",
+			"date": "2013-11-25T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "new-york-knicks",
+			"date": "2013-11-25T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "los-angeles-lakers",
+			"date": "2013-11-26T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-26T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "orlando_magic",
+			"date": "2013-11-26T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "golden-state-warriors",
+			"date": "2013-11-26T20:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "orlando_magic",
+			"team2": "philadelphia-76ers",
+			"date": "2013-11-27T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "indiana-pacers",
+			"date": "2013-11-27T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "chicago-bulls",
+			"date": "2013-11-27T19:30:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "miami-heat",
+			"date": "2013-11-27T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "los-angeles-lakers",
+			"date": "2013-11-27T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "memphis-grizzlies",
+			"date": "2013-11-27T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "washington-wizards",
+			"date": "2013-11-27T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "san-antonio-spurs",
+			"date": "2013-11-27T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "atlanta-hawks",
+			"date": "2013-11-27T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "denver-nuggets",
+			"date": "2013-11-27T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "golden-state-warriors",
+			"date": "2013-11-27T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "portland-trail-blazers",
+			"date": "2013-11-27T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "new-york-knicks",
+			"date": "2013-11-27T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "miami-heat",
+			"date": "2013-11-29T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "milwaukee-bucks",
+			"date": "2013-11-29T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "san-antonio-spurs",
+			"date": "2013-11-29T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-11-29T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "dallas-mavericks",
+			"date": "2013-11-29T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "los-angeles-lakers",
+			"date": "2013-11-29T19:30:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "washington-wizards",
+			"date": "2013-11-29T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-29T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "golden-state-warriors",
+			"date": "2013-11-29T20:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-11-29T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "new-york-knicks",
+			"date": "2013-11-29T21:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "phoenix-suns",
+			"date": "2013-11-29T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "los-angeles-clippers",
+			"date": "2013-11-29T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "atlanta-hawks",
+			"date": "2013-11-30T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "chicago-bulls",
+			"date": "2013-11-30T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "brooklyn-nets",
+			"date": "2013-11-30T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-11-30T20:30:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "houston-rockets",
+			"date": "2013-11-30T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "utah-jazz",
+			"date": "2013-11-30T21:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "boston-celtics",
+			"date": "2013-11-30T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "denver-nuggets",
+			"date": "2013-12-01T13:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "indiana-pacers",
+			"date": "2013-12-01T15:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "philadelphia-76ers",
+			"date": "2013-12-01T15:30:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "golden-state-warriors",
+			"date": "2013-12-01T18:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "charlotte-bobcats",
+			"date": "2013-12-01T18:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-12-01T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-12-01T19:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "portland-trail-blazers",
+			"date": "2013-12-01T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "orlando_magic",
+			"date": "2013-12-02T19:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-12-02T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "atlanta-hawks",
+			"date": "2013-12-02T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "houston-rockets",
+			"date": "2013-12-02T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "indiana-pacers",
+			"date": "2013-12-02T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "orlando_magic",
+			"date": "2013-12-03T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "detroit-pistons",
+			"date": "2013-12-03T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "milwaukee-bucks",
+			"date": "2013-12-03T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "denver-nuggets",
+			"date": "2013-12-03T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "phoenix-suns",
+			"date": "2013-12-03T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "charlotte-bobcats",
+			"date": "2013-12-03T20:30:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-12-03T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "toronto-raptors",
+			"date": "2013-12-03T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "denver-nuggets",
+			"date": "2013-12-04T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "los-angeles-clippers",
+			"date": "2013-12-04T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "dallas-mavericks",
+			"date": "2013-12-04T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "phoenix-suns",
+			"date": "2013-12-04T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "detroit-pistons",
+			"date": "2013-12-04T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "indiana-pacers",
+			"date": "2013-12-04T21:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "san-antonio-spurs",
+			"date": "2013-12-04T21:30:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-12-04T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "brooklyn-nets",
+			"team2": "new-york-knicks",
+			"date": "2013-12-05T19:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "los-angeles-clippers",
+			"date": "2013-12-05T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "miami-heat",
+			"date": "2013-12-05T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "philadelphia-76ers",
+			"date": "2013-12-06T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "milwaukee-bucks",
+			"date": "2013-12-06T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-12-06T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "orlando_magic",
+			"date": "2013-12-06T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "denver-nuggets",
+			"date": "2013-12-06T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-12-06T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "golden-state-warriors",
+			"date": "2013-12-06T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "toronto-raptors",
+			"date": "2013-12-06T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "utah-jazz",
+			"date": "2013-12-06T22:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "los-angeles-lakers",
+			"date": "2013-12-06T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "denver-nuggets",
+			"date": "2013-12-07T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "los-angeles-clippers",
+			"date": "2013-12-07T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "golden-state-warriors",
+			"date": "2013-12-07T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "miami-heat",
+			"date": "2013-12-07T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "detroit-pistons",
+			"date": "2013-12-07T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "brooklyn-nets",
+			"date": "2013-12-07T20:30:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "indiana-pacers",
+			"date": "2013-12-07T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "sacramento-kings",
+			"date": "2013-12-07T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "dallas-mavericks",
+			"date": "2013-12-07T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "new-york-knicks",
+			"team2": "boston-celtics",
+			"date": "2013-12-08T12:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "miami-heat",
+			"date": "2013-12-08T18:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "indiana-pacers",
+			"date": "2013-12-08T19:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "orlando_magic",
+			"date": "2013-12-08T19:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "toronto-raptors",
+			"date": "2013-12-08T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "golden-state-warriors",
+			"date": "2013-12-09T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "los-angeles-clippers",
+			"date": "2013-12-09T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "denver-nuggets",
+			"date": "2013-12-09T19:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "orlando_magic",
+			"date": "2013-12-09T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "portland-trail-blazers",
+			"date": "2013-12-09T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "dallas-mavericks",
+			"date": "2013-12-09T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "san-antonio-spurs",
+			"date": "2013-12-10T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "miami-heat",
+			"date": "2013-12-10T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "new-york-knicks",
+			"date": "2013-12-10T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-12-10T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "boston-celtics",
+			"date": "2013-12-10T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-12-10T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "milwaukee-bucks",
+			"date": "2013-12-10T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "phoenix-suns",
+			"date": "2013-12-10T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "orlando_magic",
+			"date": "2013-12-11T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "los-angeles-clippers",
+			"date": "2013-12-11T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "detroit-pistons",
+			"date": "2013-12-11T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-12-11T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "san-antonio-spurs",
+			"date": "2013-12-11T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "philadelphia-76ers",
+			"date": "2013-12-11T20:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "chicago-bulls",
+			"date": "2013-12-11T20:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "utah-jazz",
+			"date": "2013-12-11T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "dallas-mavericks",
+			"date": "2013-12-11T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "brooklyn-nets",
+			"team2": "los-angeles-clippers",
+			"date": "2013-12-12T20:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "houston-rockets",
+			"date": "2013-12-12T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "philadelphia-76ers",
+			"date": "2013-12-13T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "charlotte-bobcats",
+			"date": "2013-12-13T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-12-13T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "new-york-knicks",
+			"date": "2013-12-13T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "washington-wizards",
+			"date": "2013-12-13T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "brooklyn-nets",
+			"date": "2013-12-13T19:30:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "los-angeles-lakers",
+			"date": "2013-12-13T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "memphis-grizzlies",
+			"date": "2013-12-13T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-12-13T20:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "chicago-bulls",
+			"date": "2013-12-13T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "utah-jazz",
+			"date": "2013-12-13T21:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "sacramento-kings",
+			"date": "2013-12-13T21:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "houston-rockets",
+			"date": "2013-12-13T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "los-angeles-clippers",
+			"date": "2013-12-14T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "los-angeles-lakers",
+			"date": "2013-12-14T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "atlanta-hawks",
+			"date": "2013-12-14T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-12-14T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "toronto-raptors",
+			"date": "2013-12-14T20:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "portland-trail-blazers",
+			"date": "2013-12-14T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "milwaukee-bucks",
+			"date": "2013-12-14T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "san-antonio-spurs",
+			"date": "2013-12-14T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-12-15T18:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "houston-rockets",
+			"date": "2013-12-15T18:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "portland-trail-blazers",
+			"date": "2013-12-15T18:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "orlando_magic",
+			"date": "2013-12-15T19:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-12-15T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "golden-state-warriors",
+			"date": "2013-12-15T20:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "detroit-pistons",
+			"date": "2013-12-16T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "utah-jazz",
+			"date": "2013-12-16T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-12-16T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "philadelphia-76ers",
+			"date": "2013-12-16T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "washington-wizards",
+			"date": "2013-12-16T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "los-angeles-lakers",
+			"date": "2013-12-16T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "orlando_magic",
+			"date": "2013-12-16T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "san-antonio-spurs",
+			"date": "2013-12-16T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "sacramento-kings",
+			"date": "2013-12-17T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "portland-trail-blazers",
+			"date": "2013-12-17T19:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "los-angeles-lakers",
+			"date": "2013-12-17T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-12-17T21:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-12-17T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "charlotte-bobcats",
+			"date": "2013-12-18T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "indiana-pacers",
+			"date": "2013-12-18T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "utah-jazz",
+			"date": "2013-12-18T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "detroit-pistons",
+			"date": "2013-12-18T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "washington-wizards",
+			"date": "2013-12-18T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "sacramento-kings",
+			"date": "2013-12-18T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "new-york-knicks",
+			"date": "2013-12-18T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "portland-trail-blazers",
+			"date": "2013-12-18T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "memphis-grizzlies",
+			"date": "2013-12-18T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "san-antonio-spurs",
+			"date": "2013-12-18T21:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "chicago-bulls",
+			"date": "2013-12-18T21:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-12-18T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "chicago-bulls",
+			"date": "2013-12-19T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "san-antonio-spurs",
+			"date": "2013-12-19T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "brooklyn-nets",
+			"date": "2013-12-20T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "utah-jazz",
+			"date": "2013-12-20T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "charlotte-bobcats",
+			"date": "2013-12-20T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "sacramento-kings",
+			"date": "2013-12-20T19:30:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "milwaukee-bucks",
+			"date": "2013-12-20T19:30:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "houston-rockets",
+			"date": "2013-12-20T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "toronto-raptors",
+			"date": "2013-12-20T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "phoenix-suns",
+			"date": "2013-12-20T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-12-20T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "new-york-knicks",
+			"team2": "memphis-grizzlies",
+			"date": "2013-12-21T12:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "washington-wizards",
+			"date": "2013-12-21T13:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "sacramento-kings",
+			"date": "2013-12-21T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "utah-jazz",
+			"date": "2013-12-21T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "houston-rockets",
+			"date": "2013-12-21T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-12-21T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-12-21T20:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "philadelphia-76ers",
+			"date": "2013-12-21T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "dallas-mavericks",
+			"date": "2013-12-21T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-12-21T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "denver-nuggets",
+			"date": "2013-12-21T22:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "los-angeles-lakers",
+			"date": "2013-12-21T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "boston-celtics",
+			"date": "2013-12-22T18:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "toronto-raptors",
+			"date": "2013-12-22T19:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-12-22T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "milwaukee-bucks",
+			"date": "2013-12-23T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "new-york-knicks",
+			"date": "2013-12-23T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "detroit-pistons",
+			"date": "2013-12-23T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "atlanta-hawks",
+			"date": "2013-12-23T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "indiana-pacers",
+			"date": "2013-12-23T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "utah-jazz",
+			"date": "2013-12-23T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "dallas-mavericks",
+			"date": "2013-12-23T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "toronto-raptors",
+			"date": "2013-12-23T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "los-angeles-lakers",
+			"date": "2013-12-23T21:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "golden-state-warriors",
+			"date": "2013-12-23T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-12-23T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "brooklyn-nets",
+			"team2": "chicago-bulls",
+			"date": "2013-12-25T12:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-12-25T14:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "miami-heat",
+			"date": "2013-12-25T17:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "houston-rockets",
+			"date": "2013-12-25T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "los-angeles-clippers",
+			"date": "2013-12-25T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "atlanta-hawks",
+			"date": "2013-12-26T19:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "memphis-grizzlies",
+			"date": "2013-12-26T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "san-antonio-spurs",
+			"date": "2013-12-26T20:30:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "los-angeles-clippers",
+			"date": "2013-12-26T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "oklahoma-city-thunder",
+			"date": "2013-12-27T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "detroit-pistons",
+			"date": "2013-12-27T19:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "milwaukee-bucks",
+			"date": "2013-12-27T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "toronto-raptors",
+			"date": "2013-12-27T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "denver-nuggets",
+			"date": "2013-12-27T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "washington-wizards",
+			"date": "2013-12-27T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "los-angeles-lakers",
+			"date": "2013-12-27T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "miami-heat",
+			"date": "2013-12-27T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "phoenix-suns",
+			"date": "2013-12-27T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "boston-celtics",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-12-28T13:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "new-york-knicks",
+			"date": "2013-12-28T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "brooklyn-nets",
+			"date": "2013-12-28T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "detroit-pistons",
+			"date": "2013-12-28T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "charlotte-bobcats",
+			"date": "2013-12-28T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "new-orleans-pelicans",
+			"date": "2013-12-28T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "dallas-mavericks",
+			"date": "2013-12-28T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "denver-nuggets",
+			"date": "2013-12-28T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "minnesota-timberwolves",
+			"date": "2013-12-28T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "philadelphia-76ers",
+			"date": "2013-12-28T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "miami-heat",
+			"date": "2013-12-28T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "utah-jazz",
+			"date": "2013-12-28T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "golden-state-warriors",
+			"date": "2013-12-29T18:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "atlanta-hawks",
+			"date": "2013-12-29T18:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "sacramento-kings",
+			"date": "2013-12-29T19:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "houston-rockets",
+			"date": "2013-12-29T19:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "philadelphia-76ers",
+			"date": "2013-12-29T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "detroit-pistons",
+			"team2": "washington-wizards",
+			"date": "2013-12-30T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "dallas-mavericks",
+			"date": "2013-12-30T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "chicago-bulls",
+			"date": "2013-12-30T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "portland-trail-blazers",
+			"date": "2013-12-30T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "charlotte-bobcats",
+			"date": "2013-12-30T21:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "miami-heat",
+			"date": "2013-12-30T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "phoenix-suns",
+			"date": "2013-12-30T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "boston-celtics",
+			"team2": "atlanta-hawks",
+			"date": "2013-12-31T13:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "cleveland-cavaliers",
+			"date": "2013-12-31T15:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "golden-state-warriors",
+			"date": "2013-12-31T17:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "sacramento-kings",
+			"date": "2013-12-31T19:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "brooklyn-nets",
+			"date": "2013-12-31T19:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "toronto-raptors",
+			"date": "2013-12-31T19:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "portland-trail-blazers",
+			"date": "2013-12-31T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "milwaukee-bucks",
+			"date": "2013-12-31T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "dallas-mavericks",
+			"date": "2014-01-01T18:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "indiana-pacers",
+			"date": "2014-01-01T19:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-01-01T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "philadelphia-76ers",
+			"date": "2014-01-01T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-01T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "orlando_magic",
+			"date": "2014-01-02T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "golden-state-warriors",
+			"date": "2014-01-02T19:30:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "brooklyn-nets",
+			"date": "2014-01-02T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "boston-celtics",
+			"date": "2014-01-02T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "new-york-knicks",
+			"date": "2014-01-02T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "milwaukee-bucks",
+			"date": "2014-01-02T21:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "memphis-grizzlies",
+			"date": "2014-01-02T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "philadelphia-76ers",
+			"date": "2014-01-02T22:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-02T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "toronto-raptors",
+			"date": "2014-01-03T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "golden-state-warriors",
+			"date": "2014-01-03T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-01-03T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "new-york-knicks",
+			"date": "2014-01-03T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-03T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "memphis-grizzlies",
+			"date": "2014-01-03T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "utah-jazz",
+			"date": "2014-01-03T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "orlando_magic",
+			"team2": "miami-heat",
+			"date": "2014-01-04T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-01-04T19:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-01-04T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-04T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "atlanta-hawks",
+			"date": "2014-01-04T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-04T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "milwaukee-bucks",
+			"date": "2014-01-04T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "philadelphia-76ers",
+			"date": "2014-01-04T22:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-04T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "detroit-pistons",
+			"team2": "memphis-grizzlies",
+			"date": "2014-01-05T13:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "indiana-pacers",
+			"date": "2014-01-05T18:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "golden-state-warriors",
+			"date": "2014-01-05T18:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "toronto-raptors",
+			"date": "2014-01-05T18:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "boston-celtics",
+			"date": "2014-01-05T19:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "new-york-knicks",
+			"date": "2014-01-05T19:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "denver-nuggets",
+			"date": "2014-01-05T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-01-06T19:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "atlanta-hawks",
+			"date": "2014-01-06T19:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "orlando_magic",
+			"date": "2014-01-06T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "philadelphia-76ers",
+			"date": "2014-01-07T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "washington-wizards",
+			"date": "2014-01-07T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "toronto-raptors",
+			"date": "2014-01-07T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-01-07T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "detroit-pistons",
+			"date": "2014-01-07T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "phoenix-suns",
+			"date": "2014-01-07T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "golden-state-warriors",
+			"date": "2014-01-07T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "san-antonio-spurs",
+			"date": "2014-01-07T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-07T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-07T21:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "boston-celtics",
+			"date": "2014-01-07T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "portland-trail-blazers",
+			"date": "2014-01-07T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "detroit-pistons",
+			"date": "2014-01-08T19:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "dallas-mavericks",
+			"date": "2014-01-08T19:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "golden-state-warriors",
+			"date": "2014-01-08T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "indiana-pacers",
+			"date": "2014-01-08T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "washington-wizards",
+			"date": "2014-01-08T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "phoenix-suns",
+			"date": "2014-01-08T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-08T21:30:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "orlando_magic",
+			"date": "2014-01-08T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "boston-celtics",
+			"date": "2014-01-08T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "new-york-knicks",
+			"team2": "miami-heat",
+			"date": "2014-01-09T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-09T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "detroit-pistons",
+			"date": "2014-01-10T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "washington-wizards",
+			"date": "2014-01-10T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "houston-rockets",
+			"date": "2014-01-10T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "phoenix-suns",
+			"date": "2014-01-10T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-10T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "dallas-mavericks",
+			"date": "2014-01-10T20:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "miami-heat",
+			"date": "2014-01-10T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "chicago-bulls",
+			"date": "2014-01-10T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-01-10T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "orlando_magic",
+			"date": "2014-01-10T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-10T22:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "boston-celtics",
+			"date": "2014-01-10T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "houston-rockets",
+			"date": "2014-01-11T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "brooklyn-nets",
+			"date": "2014-01-11T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "phoenix-suns",
+			"date": "2014-01-11T19:30:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "new-york-knicks",
+			"date": "2014-01-11T19:30:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "milwaukee-bucks",
+			"date": "2014-01-11T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-11T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-01-11T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "orlando_magic",
+			"date": "2014-01-11T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "boston-celtics",
+			"date": "2014-01-11T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "atlanta-hawks",
+			"date": "2014-01-12T18:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-01-12T18:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-01-12T19:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "milwaukee-bucks",
+			"date": "2014-01-13T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "houston-rockets",
+			"date": "2014-01-13T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "phoenix-suns",
+			"date": "2014-01-13T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "san-antonio-spurs",
+			"date": "2014-01-13T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "washington-wizards",
+			"date": "2014-01-13T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "orlando_magic",
+			"date": "2014-01-13T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "denver-nuggets",
+			"date": "2014-01-13T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "new-york-knicks",
+			"date": "2014-01-14T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "sacramento-kings",
+			"date": "2014-01-14T19:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-14T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-01-14T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "miami-heat",
+			"date": "2014-01-15T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-15T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "chicago-bulls",
+			"date": "2014-01-15T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "toronto-raptors",
+			"date": "2014-01-15T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "memphis-grizzlies",
+			"date": "2014-01-15T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "utah-jazz",
+			"date": "2014-01-15T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "houston-rockets",
+			"date": "2014-01-15T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "sacramento-kings",
+			"date": "2014-01-15T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-15T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-01-15T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "dallas-mavericks",
+			"date": "2014-01-15T22:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "denver-nuggets",
+			"date": "2014-01-15T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "atlanta-hawks",
+			"team2": "brooklyn-nets",
+			"date": "2014-01-16T15:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "new-york-knicks",
+			"date": "2014-01-16T19:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-16T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-01-17T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "miami-heat",
+			"date": "2014-01-17T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-17T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-17T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "chicago-bulls",
+			"date": "2014-01-17T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-17T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "utah-jazz",
+			"date": "2014-01-17T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "sacramento-kings",
+			"date": "2014-01-17T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "portland-trail-blazers",
+			"date": "2014-01-17T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "dallas-mavericks",
+			"date": "2014-01-17T21:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-01-17T21:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "golden-state-warriors",
+			"date": "2014-01-17T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "miami-heat",
+			"date": "2014-01-18T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "detroit-pistons",
+			"date": "2014-01-18T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-18T19:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "milwaukee-bucks",
+			"date": "2014-01-18T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "utah-jazz",
+			"date": "2014-01-18T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "philadelphia-76ers",
+			"date": "2014-01-18T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "golden-state-warriors",
+			"date": "2014-01-18T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "portland-trail-blazers",
+			"date": "2014-01-18T20:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-19T13:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "boston-celtics",
+			"date": "2014-01-19T18:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "milwaukee-bucks",
+			"date": "2014-01-19T19:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "sacramento-kings",
+			"date": "2014-01-19T19:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "denver-nuggets",
+			"date": "2014-01-19T20:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "dallas-mavericks",
+			"date": "2014-01-20T13:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-20T13:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "philadelphia-76ers",
+			"date": "2014-01-20T14:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "toronto-raptors",
+			"date": "2014-01-20T14:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "brooklyn-nets",
+			"date": "2014-01-20T14:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-01-20T17:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "miami-heat",
+			"date": "2014-01-20T17:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "portland-trail-blazers",
+			"date": "2014-01-20T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-20T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "indiana-pacers",
+			"date": "2014-01-20T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "boston-celtics",
+			"date": "2014-01-21T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "orlando_magic",
+			"date": "2014-01-21T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "sacramento-kings",
+			"date": "2014-01-21T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "portland-trail-blazers",
+			"date": "2014-01-21T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-01-21T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-22T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "dallas-mavericks",
+			"date": "2014-01-22T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "atlanta-hawks",
+			"date": "2014-01-22T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "chicago-bulls",
+			"date": "2014-01-22T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "boston-celtics",
+			"date": "2014-01-22T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "philadelphia-76ers",
+			"date": "2014-01-22T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "detroit-pistons",
+			"date": "2014-01-22T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "sacramento-kings",
+			"date": "2014-01-22T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "indiana-pacers",
+			"date": "2014-01-22T21:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-22T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-23T20:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "denver-nuggets",
+			"date": "2014-01-23T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "toronto-raptors",
+			"date": "2014-01-24T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-24T19:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "dallas-mavericks",
+			"date": "2014-01-24T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-24T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "san-antonio-spurs",
+			"date": "2014-01-24T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-01-24T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-24T19:30:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "milwaukee-bucks",
+			"date": "2014-01-24T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "memphis-grizzlies",
+			"date": "2014-01-24T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-24T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "washington-wizards",
+			"date": "2014-01-24T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "indiana-pacers",
+			"date": "2014-01-24T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-01-24T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-25T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "chicago-bulls",
+			"date": "2014-01-25T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-25T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "houston-rockets",
+			"date": "2014-01-25T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "atlanta-hawks",
+			"date": "2014-01-25T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "indiana-pacers",
+			"date": "2014-01-25T21:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "washington-wizards",
+			"date": "2014-01-25T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-01-25T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "san-antonio-spurs",
+			"date": "2014-01-26T13:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "los-angeles-lakers",
+			"date": "2014-01-26T15:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "orlando_magic",
+			"date": "2014-01-26T18:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "phoenix-suns",
+			"date": "2014-01-26T18:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "brooklyn-nets",
+			"date": "2014-01-26T18:30:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "detroit-pistons",
+			"date": "2014-01-26T19:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "portland-trail-blazers",
+			"date": "2014-01-26T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "denver-nuggets",
+			"date": "2014-01-26T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "phoenix-suns",
+			"date": "2014-01-27T19:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "toronto-raptors",
+			"date": "2014-01-27T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-01-27T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-27T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "atlanta-hawks",
+			"date": "2014-01-27T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "sacramento-kings",
+			"date": "2014-01-27T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-01-28T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "orlando_magic",
+			"date": "2014-01-28T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "boston-celtics",
+			"date": "2014-01-28T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "san-antonio-spurs",
+			"date": "2014-01-28T20:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "memphis-grizzlies",
+			"date": "2014-01-28T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "washington-wizards",
+			"date": "2014-01-28T22:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "indiana-pacers",
+			"date": "2014-01-28T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-29T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "orlando_magic",
+			"date": "2014-01-29T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "detroit-pistons",
+			"date": "2014-01-29T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "philadelphia-76ers",
+			"date": "2014-01-29T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "phoenix-suns",
+			"date": "2014-01-29T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-01-29T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "houston-rockets",
+			"date": "2014-01-29T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-29T21:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "chicago-bulls",
+			"date": "2014-01-29T21:30:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "memphis-grizzlies",
+			"date": "2014-01-29T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "washington-wizards",
+			"date": "2014-01-29T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "phoenix-suns",
+			"date": "2014-01-30T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-01-30T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "los-angeles-clippers",
+			"date": "2014-01-30T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "orlando_magic",
+			"team2": "milwaukee-bucks",
+			"date": "2014-01-31T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "atlanta-hawks",
+			"date": "2014-01-31T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "memphis-grizzlies",
+			"date": "2014-01-31T20:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-01-31T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "sacramento-kings",
+			"date": "2014-01-31T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "toronto-raptors",
+			"date": "2014-01-31T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "charlotte-bobcats",
+			"date": "2014-01-31T22:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "golden-state-warriors",
+			"date": "2014-01-31T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-02-01T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "brooklyn-nets",
+			"date": "2014-02-01T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-02-01T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "philadelphia-76ers",
+			"date": "2014-02-01T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "chicago-bulls",
+			"date": "2014-02-01T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-02-01T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "milwaukee-bucks",
+			"date": "2014-02-01T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "sacramento-kings",
+			"date": "2014-02-01T20:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "miami-heat",
+			"date": "2014-02-01T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "charlotte-bobcats",
+			"date": "2014-02-01T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "toronto-raptors",
+			"date": "2014-02-01T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "utah-jazz",
+			"date": "2014-02-01T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "boston-celtics",
+			"team2": "orlando_magic",
+			"date": "2014-02-02T13:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "portland-trail-blazers",
+			"date": "2014-02-03T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "orlando_magic",
+			"date": "2014-02-03T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "detroit-pistons",
+			"date": "2014-02-03T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "philadelphia-76ers",
+			"date": "2014-02-03T19:30:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "memphis-grizzlies",
+			"date": "2014-02-03T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "new-york-knicks",
+			"date": "2014-02-03T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "san-antonio-spurs",
+			"date": "2014-02-03T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-02-03T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "toronto-raptors",
+			"date": "2014-02-03T21:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "los-angeles-clippers",
+			"date": "2014-02-03T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "chicago-bulls",
+			"date": "2014-02-03T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "atlanta-hawks",
+			"team2": "indiana-pacers",
+			"date": "2014-02-04T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "los-angeles-lakers",
+			"date": "2014-02-04T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "chicago-bulls",
+			"date": "2014-02-04T21:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "charlotte-bobcats",
+			"date": "2014-02-04T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "boston-celtics",
+			"date": "2014-02-05T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "san-antonio-spurs",
+			"date": "2014-02-05T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "los-angeles-lakers",
+			"date": "2014-02-05T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "portland-trail-blazers",
+			"date": "2014-02-05T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "phoenix-suns",
+			"date": "2014-02-05T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "atlanta-hawks",
+			"date": "2014-02-05T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-02-05T20:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "detroit-pistons",
+			"date": "2014-02-05T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "dallas-mavericks",
+			"date": "2014-02-05T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "milwaukee-bucks",
+			"date": "2014-02-05T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "toronto-raptors",
+			"date": "2014-02-05T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "miami-heat",
+			"date": "2014-02-05T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "brooklyn-nets",
+			"team2": "san-antonio-spurs",
+			"date": "2014-02-06T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "chicago-bulls",
+			"date": "2014-02-06T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "orlando_magic",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-02-07T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "los-angeles-lakers",
+			"date": "2014-02-07T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-02-07T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "portland-trail-blazers",
+			"date": "2014-02-07T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "brooklyn-nets",
+			"date": "2014-02-07T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "sacramento-kings",
+			"date": "2014-02-07T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "denver-nuggets",
+			"date": "2014-02-07T19:30:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "utah-jazz",
+			"date": "2014-02-07T20:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-02-07T21:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "toronto-raptors",
+			"date": "2014-02-07T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "san-antonio-spurs",
+			"date": "2014-02-08T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "memphis-grizzlies",
+			"date": "2014-02-08T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "denver-nuggets",
+			"date": "2014-02-08T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "portland-trail-blazers",
+			"date": "2014-02-08T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "houston-rockets",
+			"date": "2014-02-08T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "golden-state-warriors",
+			"date": "2014-02-08T21:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "miami-heat",
+			"date": "2014-02-08T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "new-york-knicks",
+			"date": "2014-02-09T13:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "chicago-bulls",
+			"date": "2014-02-09T15:30:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "memphis-grizzlies",
+			"date": "2014-02-09T18:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "dallas-mavericks",
+			"date": "2014-02-09T18:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "indiana-pacers",
+			"date": "2014-02-09T18:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-02-09T18:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "sacramento-kings",
+			"date": "2014-02-09T18:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "philadelphia-76ers",
+			"date": "2014-02-09T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "denver-nuggets",
+			"date": "2014-02-10T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-02-10T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "san-antonio-spurs",
+			"date": "2014-02-10T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "boston-celtics",
+			"date": "2014-02-10T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "houston-rockets",
+			"date": "2014-02-10T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "philadelphia-76ers",
+			"date": "2014-02-10T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "dallas-mavericks",
+			"date": "2014-02-11T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "sacramento-kings",
+			"date": "2014-02-11T19:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "atlanta-hawks",
+			"date": "2014-02-11T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "washington-wizards",
+			"date": "2014-02-11T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "miami-heat",
+			"date": "2014-02-11T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-02-11T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "utah-jazz",
+			"date": "2014-02-11T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "dallas-mavericks",
+			"date": "2014-02-12T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "atlanta-hawks",
+			"date": "2014-02-12T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "memphis-grizzlies",
+			"date": "2014-02-12T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "sacramento-kings",
+			"date": "2014-02-12T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "charlotte-bobcats",
+			"date": "2014-02-12T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "san-antonio-spurs",
+			"date": "2014-02-12T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-02-12T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "denver-nuggets",
+			"date": "2014-02-12T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "washington-wizards",
+			"date": "2014-02-12T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-02-12T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "philadelphia-76ers",
+			"date": "2014-02-12T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "portland-trail-blazers",
+			"date": "2014-02-12T22:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "miami-heat",
+			"date": "2014-02-12T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "chicago-bulls",
+			"team2": "brooklyn-nets",
+			"date": "2014-02-13T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-02-13T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "toronto-raptors",
+			"date": "2014-02-18T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-02-18T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "atlanta-hawks",
+			"date": "2014-02-18T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "charlotte-bobcats",
+			"date": "2014-02-18T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "orlando_magic",
+			"date": "2014-02-18T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "new-york-knicks",
+			"date": "2014-02-18T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "miami-heat",
+			"date": "2014-02-18T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "phoenix-suns",
+			"date": "2014-02-18T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "san-antonio-spurs",
+			"date": "2014-02-18T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "detroit-pistons",
+			"date": "2014-02-19T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "chicago-bulls",
+			"date": "2014-02-19T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "orlando_magic",
+			"date": "2014-02-19T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "washington-wizards",
+			"date": "2014-02-19T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "new-york-knicks",
+			"date": "2014-02-19T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "indiana-pacers",
+			"date": "2014-02-19T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "brooklyn-nets",
+			"date": "2014-02-19T21:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "boston-celtics",
+			"date": "2014-02-19T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "san-antonio-spurs",
+			"date": "2014-02-19T22:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "golden-state-warriors",
+			"date": "2014-02-19T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "houston-rockets",
+			"date": "2014-02-19T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "denver-nuggets",
+			"date": "2014-02-20T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "miami-heat",
+			"date": "2014-02-20T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "houston-rockets",
+			"date": "2014-02-20T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "dallas-mavericks",
+			"date": "2014-02-21T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "new-york-knicks",
+			"date": "2014-02-21T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-02-21T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-02-21T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "atlanta-hawks",
+			"date": "2014-02-21T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "denver-nuggets",
+			"date": "2014-02-21T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "los-angeles-clippers",
+			"date": "2014-02-21T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "san-antonio-spurs",
+			"date": "2014-02-21T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "utah-jazz",
+			"date": "2014-02-21T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "boston-celtics",
+			"date": "2014-02-21T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "memphis-grizzlies",
+			"date": "2014-02-22T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-02-22T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "new-york-knicks",
+			"date": "2014-02-22T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "dallas-mavericks",
+			"date": "2014-02-22T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "indiana-pacers",
+			"date": "2014-02-22T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-02-22T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "boston-celtics",
+			"date": "2014-02-22T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "brooklyn-nets",
+			"date": "2014-02-22T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "los-angeles-clippers",
+			"date": "2014-02-23T13:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "chicago-bulls",
+			"date": "2014-02-23T15:30:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "orlando_magic",
+			"date": "2014-02-23T18:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "washington-wizards",
+			"date": "2014-02-23T18:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "houston-rockets",
+			"date": "2014-02-23T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "sacramento-kings",
+			"date": "2014-02-23T20:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-02-23T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "brooklyn-nets",
+			"date": "2014-02-23T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "milwaukee-bucks",
+			"date": "2014-02-24T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "dallas-mavericks",
+			"date": "2014-02-24T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "golden-state-warriors",
+			"date": "2014-02-24T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "los-angeles-clippers",
+			"date": "2014-02-24T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "boston-celtics",
+			"date": "2014-02-24T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "orlando_magic",
+			"date": "2014-02-25T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "toronto-raptors",
+			"date": "2014-02-25T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "los-angeles-lakers",
+			"date": "2014-02-25T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "chicago-bulls",
+			"date": "2014-02-25T19:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-02-25T21:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "portland-trail-blazers",
+			"date": "2014-02-25T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "houston-rockets",
+			"date": "2014-02-25T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "orlando_magic",
+			"date": "2014-02-26T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "atlanta-hawks",
+			"date": "2014-02-26T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "los-angeles-lakers",
+			"date": "2014-02-26T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "golden-state-warriors",
+			"date": "2014-02-26T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-02-26T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-02-26T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "detroit-pistons",
+			"date": "2014-02-26T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "phoenix-suns",
+			"date": "2014-02-26T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "brooklyn-nets",
+			"date": "2014-02-26T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "houston-rockets",
+			"date": "2014-02-26T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "washington-wizards",
+			"date": "2014-02-27T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "milwaukee-bucks",
+			"date": "2014-02-27T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "new-york-knicks",
+			"date": "2014-02-27T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "brooklyn-nets",
+			"date": "2014-02-27T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "utah-jazz",
+			"date": "2014-02-28T19:30:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "memphis-grizzlies",
+			"date": "2014-02-28T20:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "golden-state-warriors",
+			"date": "2014-02-28T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "chicago-bulls",
+			"date": "2014-02-28T20:30:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "charlotte-bobcats",
+			"date": "2014-02-28T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-02-28T22:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "sacramento-kings",
+			"date": "2014-02-28T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "orlando_magic",
+			"date": "2014-03-01T19:30:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "washington-wizards",
+			"date": "2014-03-01T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "detroit-pistons",
+			"date": "2014-03-01T20:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "indiana-pacers",
+			"date": "2014-03-01T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "brooklyn-nets",
+			"date": "2014-03-01T20:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-03-01T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-03-01T22:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "denver-nuggets",
+			"date": "2014-03-01T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-03-01T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "chicago-bulls",
+			"team2": "new-york-knicks",
+			"date": "2014-03-02T13:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "golden-state-warriors",
+			"date": "2014-03-02T16:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "philadelphia-76ers",
+			"date": "2014-03-02T18:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "utah-jazz",
+			"date": "2014-03-02T18:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "charlotte-bobcats",
+			"date": "2014-03-02T19:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "dallas-mavericks",
+			"date": "2014-03-02T19:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "atlanta-hawks",
+			"date": "2014-03-02T20:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "washington-wizards",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-03T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "new-york-knicks",
+			"date": "2014-03-03T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "charlotte-bobcats",
+			"date": "2014-03-03T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "chicago-bulls",
+			"date": "2014-03-03T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "utah-jazz",
+			"date": "2014-03-03T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-03-03T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "los-angeles-lakers",
+			"date": "2014-03-03T22:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-03-03T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "golden-state-warriors",
+			"date": "2014-03-04T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "san-antonio-spurs",
+			"date": "2014-03-04T19:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "miami-heat",
+			"date": "2014-03-04T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "philadelphia-76ers",
+			"date": "2014-03-04T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "los-angeles-clippers",
+			"date": "2014-03-04T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-03-04T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "indiana-pacers",
+			"date": "2014-03-05T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "houston-rockets",
+			"date": "2014-03-05T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "utah-jazz",
+			"date": "2014-03-05T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "chicago-bulls",
+			"date": "2014-03-05T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "golden-state-warriors",
+			"date": "2014-03-05T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-05T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "new-york-knicks",
+			"date": "2014-03-05T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "sacramento-kings",
+			"date": "2014-03-05T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "dallas-mavericks",
+			"date": "2014-03-05T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "atlanta-hawks",
+			"date": "2014-03-05T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "miami-heat",
+			"date": "2014-03-06T20:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-03-06T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "los-angeles-clippers",
+			"date": "2014-03-06T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "chicago-bulls",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-07T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "sacramento-kings",
+			"date": "2014-03-07T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-03-07T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "utah-jazz",
+			"date": "2014-03-07T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "brooklyn-nets",
+			"date": "2014-03-07T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "milwaukee-bucks",
+			"date": "2014-03-07T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "detroit-pistons",
+			"date": "2014-03-07T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-07T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "los-angeles-lakers",
+			"date": "2014-03-07T21:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "indiana-pacers",
+			"date": "2014-03-07T21:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "atlanta-hawks",
+			"date": "2014-03-07T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "new-york-knicks",
+			"date": "2014-03-08T19:30:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "utah-jazz",
+			"date": "2014-03-08T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "charlotte-bobcats",
+			"date": "2014-03-08T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "orlando_magic",
+			"date": "2014-03-08T20:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "washington-wizards",
+			"date": "2014-03-08T20:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "atlanta-hawks",
+			"date": "2014-03-08T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "chicago-bulls",
+			"team2": "miami-heat",
+			"date": "2014-03-09T13:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-03-09T15:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "detroit-pistons",
+			"date": "2014-03-09T18:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "sacramento-kings",
+			"date": "2014-03-09T18:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "denver-nuggets",
+			"date": "2014-03-09T18:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "toronto-raptors",
+			"date": "2014-03-09T19:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-09T19:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "indiana-pacers",
+			"date": "2014-03-09T19:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "phoenix-suns",
+			"date": "2014-03-09T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "denver-nuggets",
+			"date": "2014-03-10T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "washington-wizards",
+			"date": "2014-03-10T19:30:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "philadelphia-76ers",
+			"date": "2014-03-10T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "toronto-raptors",
+			"date": "2014-03-10T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "orlando_magic",
+			"date": "2014-03-10T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "atlanta-hawks",
+			"date": "2014-03-10T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "phoenix-suns",
+			"date": "2014-03-10T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "boston-celtics",
+			"date": "2014-03-11T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "sacramento-kings",
+			"date": "2014-03-11T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-11T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "houston-rockets",
+			"date": "2014-03-11T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "milwaukee-bucks",
+			"date": "2014-03-11T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "san-antonio-spurs",
+			"date": "2014-03-11T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "dallas-mavericks",
+			"date": "2014-03-11T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "detroit-pistons",
+			"date": "2014-03-12T19:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "brooklyn-nets",
+			"date": "2014-03-12T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "denver-nuggets",
+			"date": "2014-03-12T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "sacramento-kings",
+			"date": "2014-03-12T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "charlotte-bobcats",
+			"date": "2014-03-12T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "new-york-knicks",
+			"date": "2014-03-12T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-12T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "dallas-mavericks",
+			"date": "2014-03-12T21:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-12T21:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-03-12T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "golden-state-warriors",
+			"date": "2014-03-12T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "chicago-bulls",
+			"team2": "houston-rockets",
+			"date": "2014-03-13T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "milwaukee-bucks",
+			"date": "2014-03-13T19:30:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "los-angeles-lakers",
+			"date": "2014-03-13T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "indiana-pacers",
+			"date": "2014-03-14T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-14T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-03-14T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "washington-wizards",
+			"date": "2014-03-14T19:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "phoenix-suns",
+			"date": "2014-03-14T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "denver-nuggets",
+			"date": "2014-03-14T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-14T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "los-angeles-lakers",
+			"date": "2014-03-14T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "los-angeles-clippers",
+			"date": "2014-03-14T21:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-03-14T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "new-york-knicks",
+			"team2": "milwaukee-bucks",
+			"date": "2014-03-15T12:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "brooklyn-nets",
+			"date": "2014-03-15T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "denver-nuggets",
+			"date": "2014-03-15T19:30:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-15T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "indiana-pacers",
+			"date": "2014-03-15T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "sacramento-kings",
+			"date": "2014-03-15T20:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "charlotte-bobcats",
+			"date": "2014-03-16T13:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "phoenix-suns",
+			"date": "2014-03-16T13:00:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "houston-rockets",
+			"date": "2014-03-16T15:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "boston-celtics",
+			"date": "2014-03-16T18:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "utah-jazz",
+			"date": "2014-03-16T19:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "sacramento-kings",
+			"date": "2014-03-16T19:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "dallas-mavericks",
+			"date": "2014-03-16T19:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "golden-state-warriors",
+			"date": "2014-03-16T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-03-16T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "atlanta-hawks",
+			"date": "2014-03-17T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "philadelphia-76ers",
+			"date": "2014-03-17T19:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "phoenix-suns",
+			"date": "2014-03-17T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "utah-jazz",
+			"date": "2014-03-17T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-03-17T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "boston-celtics",
+			"date": "2014-03-17T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "los-angeles-clippers",
+			"date": "2014-03-17T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "miami-heat",
+			"date": "2014-03-18T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "toronto-raptors",
+			"date": "2014-03-18T19:30:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "washington-wizards",
+			"date": "2014-03-18T22:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "milwaukee-bucks",
+			"date": "2014-03-18T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "orlando_magic",
+			"date": "2014-03-18T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "chicago-bulls",
+			"date": "2014-03-19T19:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "charlotte-bobcats",
+			"date": "2014-03-19T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "miami-heat",
+			"date": "2014-03-19T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "utah-jazz",
+			"date": "2014-03-19T20:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "indiana-pacers",
+			"date": "2014-03-19T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "toronto-raptors",
+			"date": "2014-03-19T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-03-19T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "detroit-pistons",
+			"date": "2014-03-19T21:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "orlando_magic",
+			"date": "2014-03-19T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "san-antonio-spurs",
+			"date": "2014-03-19T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-03-20T19:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-03-20T20:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "washington-wizards",
+			"date": "2014-03-20T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "milwaukee-bucks",
+			"date": "2014-03-20T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "chicago-bulls",
+			"date": "2014-03-21T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "new-york-knicks",
+			"date": "2014-03-21T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-03-21T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-03-21T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "boston-celtics",
+			"date": "2014-03-21T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-21T19:30:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "denver-nuggets",
+			"date": "2014-03-21T20:30:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "detroit-pistons",
+			"date": "2014-03-21T22:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "san-antonio-spurs",
+			"date": "2014-03-21T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "washington-wizards",
+			"date": "2014-03-21T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-22T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "houston-rockets",
+			"date": "2014-03-22T19:30:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "indiana-pacers",
+			"date": "2014-03-22T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "miami-heat",
+			"date": "2014-03-22T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "philadelphia-76ers",
+			"date": "2014-03-22T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "orlando_magic",
+			"date": "2014-03-22T21:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "san-antonio-spurs",
+			"date": "2014-03-22T22:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "detroit-pistons",
+			"date": "2014-03-22T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "atlanta-hawks",
+			"date": "2014-03-23T13:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "phoenix-suns",
+			"date": "2014-03-23T15:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "washington-wizards",
+			"date": "2014-03-23T17:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "milwaukee-bucks",
+			"date": "2014-03-23T18:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-03-23T19:30:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "brooklyn-nets",
+			"date": "2014-03-23T19:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "orlando_magic",
+			"date": "2014-03-23T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "houston-rockets",
+			"date": "2014-03-24T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "phoenix-suns",
+			"date": "2014-03-24T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-24T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "indiana-pacers",
+			"date": "2014-03-24T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "brooklyn-nets",
+			"date": "2014-03-24T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "denver-nuggets",
+			"date": "2014-03-24T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-03-24T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "philadelphia-76ers",
+			"date": "2014-03-24T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "detroit-pistons",
+			"date": "2014-03-24T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "milwaukee-bucks",
+			"date": "2014-03-24T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "toronto-raptors",
+			"date": "2014-03-25T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-25T19:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-03-25T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "new-york-knicks",
+			"date": "2014-03-25T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "brooklyn-nets",
+			"date": "2014-03-26T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "phoenix-suns",
+			"date": "2014-03-26T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-03-26T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "toronto-raptors",
+			"date": "2014-03-26T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "los-angeles-clippers",
+			"date": "2014-03-26T20:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "miami-heat",
+			"date": "2014-03-26T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "atlanta-hawks",
+			"date": "2014-03-26T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "denver-nuggets",
+			"date": "2014-03-26T20:30:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "new-york-knicks",
+			"date": "2014-03-26T22:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-26T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "atlanta-hawks",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-27T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "philadelphia-76ers",
+			"date": "2014-03-27T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "los-angeles-lakers",
+			"date": "2014-03-27T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "los-angeles-clippers",
+			"date": "2014-03-27T20:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "boston-celtics",
+			"date": "2014-03-28T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "indiana-pacers",
+			"date": "2014-03-28T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "charlotte-bobcats",
+			"date": "2014-03-28T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "miami-heat",
+			"date": "2014-03-28T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-03-28T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "utah-jazz",
+			"date": "2014-03-28T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "portland-trail-blazers",
+			"date": "2014-03-28T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "los-angeles-lakers",
+			"date": "2014-03-28T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "sacramento-kings",
+			"date": "2014-03-28T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "san-antonio-spurs",
+			"date": "2014-03-28T21:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "new-york-knicks",
+			"date": "2014-03-28T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-28T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "detroit-pistons",
+			"date": "2014-03-29T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "los-angeles-clippers",
+			"date": "2014-03-29T20:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "atlanta-hawks",
+			"date": "2014-03-29T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "sacramento-kings",
+			"date": "2014-03-29T20:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "miami-heat",
+			"date": "2014-03-29T20:30:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-03-29T20:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "utah-jazz",
+			"date": "2014-03-30T15:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "indiana-pacers",
+			"date": "2014-03-30T15:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-03-30T18:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "toronto-raptors",
+			"date": "2014-03-30T18:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "chicago-bulls",
+			"date": "2014-03-30T19:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "new-york-knicks",
+			"date": "2014-03-30T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-30T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "phoenix-suns",
+			"date": "2014-03-30T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "indiana-pacers",
+			"team2": "san-antonio-spurs",
+			"date": "2014-03-31T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "washington-wizards",
+			"date": "2014-03-31T19:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "milwaukee-bucks",
+			"date": "2014-03-31T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "philadelphia-76ers",
+			"date": "2014-03-31T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "toronto-raptors",
+			"date": "2014-03-31T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "los-angeles-clippers",
+			"date": "2014-03-31T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "sacramento-kings",
+			"date": "2014-03-31T20:00:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "boston-celtics",
+			"date": "2014-03-31T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "memphis-grizzlies",
+			"date": "2014-03-31T21:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "new-york-knicks",
+			"date": "2014-03-31T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "brooklyn-nets",
+			"team2": "houston-rockets",
+			"date": "2014-04-01T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "golden-state-warriors",
+			"date": "2014-04-01T20:30:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "portland-trail-blazers",
+			"date": "2014-04-01T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "charlotte-bobcats",
+			"date": "2014-04-02T19:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "detroit-pistons",
+			"date": "2014-04-02T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "brooklyn-nets",
+			"date": "2014-04-02T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "houston-rockets",
+			"date": "2014-04-02T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-04-02T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "boston-celtics",
+			"date": "2014-04-02T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "chicago-bulls",
+			"date": "2014-04-02T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "milwaukee-bucks",
+			"date": "2014-04-02T19:30:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "memphis-grizzlies",
+			"date": "2014-04-02T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "golden-state-warriors",
+			"date": "2014-04-02T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-04-02T21:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "los-angeles-clippers",
+			"date": "2014-04-02T22:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "los-angeles-lakers",
+			"date": "2014-04-02T22:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "san-antonio-spurs",
+			"date": "2014-04-03T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "dallas-mavericks",
+			"date": "2014-04-03T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "denver-nuggets",
+			"date": "2014-04-04T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "orlando_magic",
+			"date": "2014-04-04T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "indiana-pacers",
+			"date": "2014-04-04T19:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "washington-wizards",
+			"date": "2014-04-04T19:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "detroit-pistons",
+			"date": "2014-04-04T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-04-04T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-04-04T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "philadelphia-76ers",
+			"date": "2014-04-04T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "milwaukee-bucks",
+			"date": "2014-04-04T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-04-04T21:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-04-04T21:30:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "phoenix-suns",
+			"date": "2014-04-04T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "dallas-mavericks",
+			"date": "2014-04-04T22:30:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "sacramento-kings",
+			"date": "2014-04-04T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "orlando_magic",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-04-05T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "chicago-bulls",
+			"date": "2014-04-05T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "brooklyn-nets",
+			"date": "2014-04-05T19:30:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "charlotte-bobcats",
+			"date": "2014-04-05T19:30:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "boston-celtics",
+			"date": "2014-04-05T19:30:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "toronto-raptors",
+			"date": "2014-04-05T20:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "new-york-knicks",
+			"date": "2014-04-06T13:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "los-angeles-lakers",
+			"date": "2014-04-06T15:30:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "dallas-mavericks",
+			"date": "2014-04-06T18:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "atlanta-hawks",
+			"date": "2014-04-06T18:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "memphis-grizzlies",
+			"date": "2014-04-06T19:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "denver-nuggets",
+			"date": "2014-04-06T19:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-04-06T21:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "utah-jazz",
+			"date": "2014-04-06T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-04-06T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "brooklyn-nets",
+			"date": "2014-04-08T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "dallas-mavericks",
+			"date": "2014-04-08T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-04-08T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "houston-rockets",
+			"date": "2014-04-08T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "detroit-pistons",
+			"date": "2014-04-09T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "philadelphia-76ers",
+			"date": "2014-04-09T19:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "brooklyn-nets",
+			"date": "2014-04-09T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "charlotte-bobcats",
+			"date": "2014-04-09T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "boston-celtics",
+			"date": "2014-04-09T19:30:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "phoenix-suns",
+			"date": "2014-04-09T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "miami-heat",
+			"date": "2014-04-09T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "indiana-pacers",
+			"date": "2014-04-09T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "chicago-bulls",
+			"date": "2014-04-09T20:00:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "houston-rockets",
+			"date": "2014-04-09T21:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "sacramento-kings",
+			"date": "2014-04-09T22:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-04-09T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "dallas-mavericks",
+			"team2": "san-antonio-spurs",
+			"date": "2014-04-10T20:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "denver-nuggets",
+			"date": "2014-04-10T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "orlando_magic",
+			"team2": "washington-wizards",
+			"date": "2014-04-11T19:00:00+04:00"
+		},
+		{
+			"team1": "toronto-raptors",
+			"team2": "new-york-knicks",
+			"date": "2014-04-11T19:00:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "atlanta-hawks",
+			"date": "2014-04-11T19:30:00+04:00"
+		},
+		{
+			"team1": "miami-heat",
+			"team2": "indiana-pacers",
+			"date": "2014-04-11T19:30:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "charlotte-bobcats",
+			"date": "2014-04-11T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "detroit-pistons",
+			"date": "2014-04-11T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-04-11T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "philadelphia-76ers",
+			"date": "2014-04-11T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "houston-rockets",
+			"date": "2014-04-11T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "cleveland-cavaliers",
+			"date": "2014-04-11T20:30:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "phoenix-suns",
+			"date": "2014-04-11T20:30:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "portland-trail-blazers",
+			"date": "2014-04-11T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "golden-state-warriors",
+			"date": "2014-04-11T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "sacramento-kings",
+			"date": "2014-04-12T15:30:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "milwaukee-bucks",
+			"date": "2014-04-12T19:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "philadelphia-76ers",
+			"date": "2014-04-12T19:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "boston-celtics",
+			"date": "2014-04-12T19:30:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "miami-heat",
+			"date": "2014-04-12T19:30:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "new-orleans-pelicans",
+			"date": "2014-04-12T20:00:00+04:00"
+		},
+		{
+			"team1": "dallas-mavericks",
+			"team2": "phoenix-suns",
+			"date": "2014-04-12T20:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "utah-jazz",
+			"date": "2014-04-12T21:00:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "new-york-knicks",
+			"team2": "chicago-bulls",
+			"date": "2014-04-13T13:00:00+04:00"
+		},
+		{
+			"team1": "detroit-pistons",
+			"team2": "toronto-raptors",
+			"date": "2014-04-13T15:30:00+04:00"
+		},
+		{
+			"team1": "brooklyn-nets",
+			"team2": "orlando_magic",
+			"date": "2014-04-13T18:00:00+04:00"
+		},
+		{
+			"team1": "indiana-pacers",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-04-13T18:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "golden-state-warriors",
+			"date": "2014-04-13T21:00:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-04-13T21:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-lakers",
+			"team2": "memphis-grizzlies",
+			"date": "2014-04-13T21:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "toronto-raptors",
+			"team2": "milwaukee-bucks",
+			"date": "2014-04-14T19:00:00+04:00"
+		},
+		{
+			"team1": "washington-wizards",
+			"team2": "miami-heat",
+			"date": "2014-04-14T19:00:00+04:00"
+		},
+		{
+			"team1": "philadelphia-76ers",
+			"team2": "boston-celtics",
+			"date": "2014-04-14T19:00:00+04:00"
+		},
+		{
+			"team1": "atlanta-hawks",
+			"team2": "charlotte-bobcats",
+			"date": "2014-04-14T19:30:00+04:00"
+		},
+		{
+			"team1": "chicago-bulls",
+			"team2": "orlando_magic",
+			"date": "2014-04-14T20:00:00+04:00"
+		},
+		{
+			"team1": "houston-rockets",
+			"team2": "san-antonio-spurs",
+			"date": "2014-04-14T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "oklahoma-city-thunder",
+			"date": "2014-04-14T20:00:00+04:00"
+		},
+		{
+			"team1": "utah-jazz",
+			"team2": "los-angeles-lakers",
+			"date": "2014-04-14T21:00:00+04:00"
+		},
+		{
+			"team1": "phoenix-suns",
+			"team2": "memphis-grizzlies",
+			"date": "2014-04-14T22:00:00+04:00"
+		},
+		{
+			"team1": "golden-state-warriors",
+			"team2": "minnesota-timberwolves",
+			"date": "2014-04-14T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "brooklyn-nets",
+			"team2": "new-york-knicks",
+			"date": "2014-04-15T20:00:00+04:00"
+		},
+		{
+			"team1": "los-angeles-clippers",
+			"team2": "denver-nuggets",
+			"date": "2014-04-15T22:30:00+04:00"
+		}
+	],
+	[
+		{
+			"team1": "miami-heat",
+			"team2": "philadelphia-76ers",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "cleveland-cavaliers",
+			"team2": "brooklyn-nets",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "minnesota-timberwolves",
+			"team2": "utah-jazz",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "oklahoma-city-thunder",
+			"team2": "detroit-pistons",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "new-york-knicks",
+			"team2": "toronto-raptors",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "boston-celtics",
+			"team2": "washington-wizards",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "new-orleans-pelicans",
+			"team2": "houston-rockets",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "milwaukee-bucks",
+			"team2": "atlanta-hawks",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "san-antonio-spurs",
+			"team2": "los-angeles-lakers",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "orlando_magic",
+			"team2": "indiana-pacers",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "memphis-grizzlies",
+			"team2": "dallas-mavericks",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "charlotte-bobcats",
+			"team2": "chicago-bulls",
+			"date": "2014-04-16T20:00:00+04:00"
+		},
+		{
+			"team1": "portland-trail-blazers",
+			"team2": "los-angeles-clippers",
+			"date": "2014-04-16T22:30:00+04:00"
+		},
+		{
+			"team1": "denver-nuggets",
+			"team2": "golden-state-warriors",
+			"date": "2014-04-16T22:30:00+04:00"
+		},
+		{
+			"team1": "sacramento-kings",
+			"team2": "phoenix-suns",
+			"date": "2014-04-16T22:30:00+04:00"
+		}
+	]
+]
